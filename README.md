@@ -37,3 +37,24 @@ O objetivo deste relatório é fornecer uma visão geral passo a passo da criaç
 2. Clono o repositório para o computador local.
 3. Adicionei capturas de tela das etapas anteriores.
 4. Realizei commits separados para cada adição.
+
+## Resultados
+
+A instância EC2 foi criada com sucesso, e o acesso SSH foi bem-sucedido usando o PuTTY. O repositório no GitHub foi criado, e o relatório técnico foi adicionado, incluindo capturas de tela relevantes.
+
+## Conclusão
+
+Este relatório descreveu com êxito o processo de criação de uma instância EC2 na AWS, o acesso SSH à instância e a criação de um repositório no GitHub para documentação. Essas etapas demonstraram a capacidade de configurar recursos em nuvem e usar ferramentas de versionamento para documentar o processo.
+
+---
+
+**Captura de tela do console da AWS com a Instância EC2 Criada**
+![Captura de Tela 1](Screenshots/Screenshot%202023-08-20%20020845.png)
+![Captura de Tela 2](Screenshots/Screenshot%202023-08-20%20013824.png)
+
+**Captura de tela com o acesso SSH Bem-Sucedido via PuTTY**
+![Captura de Tela 3](Screenshots/Screenshot%202023-08-20%20015742.png)
+
+**IP da Instância EC2 Criada:** `172.31.16.178`
+
+Repositório GitHub: [relatorio-tecnico-acesso-ec2](https://github.com/Vitorhrds2/relatorio-tecnico-acesso-ec2)
